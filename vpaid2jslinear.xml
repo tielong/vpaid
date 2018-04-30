@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+  <Ad id="7976000988113">
+    <InLine>
+      <AdSystem>Amazon</AdSystem>
+      <AdTitle><![CDATA[[JWPlayerIntegrationTest] First party skipOffset]]></AdTitle>
+      <Error><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoError%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=4,789,870,837,346,955,693]]></Error>
+      <Impression><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoImpression%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=1,841,882,658,377,835,258]]></Impression>
+      
+      <Creatives>
+          <Creative sequence="1" id="7246765370601">
+              <Linear>
+                  <Duration>00:00:15</Duration>
+                  <Icons>
+                      <Icon program="adchoices" width="15" height="15" xPosition="left" yPosition="top">
+                          <StaticResource creativeType="image/png">
+                              <![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/da/adchoices.png]]>
+                          </StaticResource>
+                          <IconClicks>
+                              <IconClickThrough>
+                                  <![CDATA[https://www.amazon.com/adprefs/ref=cs_aap_video_7246765370601]]>
+                              </IconClickThrough>
+                          </IconClicks>
+                      </Icon>
+                  </Icons>
+                  <TrackingEvents>
+   <Tracking event="start"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoStart%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=7,504,256,339,809,842,737]]></Tracking>
+   <Tracking event="firstQuartile"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoFirstQuartile%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=3,983,732,493,639,940,057]]></Tracking>
+   <Tracking event="midpoint"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoMidpoint%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=2,913,003,188,790,303,423]]></Tracking>
+   <Tracking event="thirdQuartile"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoThirdQuartile%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=5,578,307,309,301,562,586]]></Tracking>
+   <Tracking event="complete"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoComplete%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=5,900,463,944,596,901,009]]></Tracking>
+   <Tracking event="mute"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoMute%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=4,144,602,999,924,260,935]]></Tracking>
+   <Tracking event="unmute"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoUnmute%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=1,807,832,590,375,731,014]]></Tracking>
+   <Tracking event="pause"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoPause%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=1,315,605,485,065,784,697]]></Tracking>
+   <Tracking event="resume"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoResume%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=65,320,545,328,104,120]]></Tracking>
+   <Tracking event="rewind"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoSkipBackward%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=7,114,773,420,422,543,446]]></Tracking>
+   <Tracking event="acceptInvitation"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoCreativeView%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=6,499,725,274,074,879,454]]></Tracking>
+   <Tracking event="close"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoClose%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=2,065,018,691,356,468,874]]></Tracking>
+</TrackingEvents>
+<AdParameters>
+    <![CDATA[{"videos":[ {"url":"https://cdn-a.amazon-adsystem.com/video/35b29763-ed33-4758-85b1-a50d1a3ce39f/3000-640x360.mp4","mimetype":"video/mp4"}]}]]>
+</AdParameters>
+                  <VideoClicks>
+                    <ClickThrough><![CDATA[https://www.t-mobile.com/offers/samsung-phone-deals]]></ClickThrough>
+                    <ClickTracking><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoClick%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=7,426,647,971,682,046,631]]></ClickTracking>
+                  </VideoClicks>
+                  <MediaFiles>
+                    <MediaFile apiFramework="VPAID" type="application/javascript">
+                        https://s3.amazonaws.com/ios-app-config-beta/VpaidLinearAd.js
+                    </MediaFile>
+                  </MediaFiles>
+              </Linear>
+          </Creative>
+          <Creative sequence="1">
+            <CompanionAds>
+                <Companion width="300" height="250">
+                    <TrackingEvents>
+                        <Tracking event="creativeView"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoCreativeView%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=3,153,045,885,512,396,427]]></Tracking>
+                    </TrackingEvents>
+                    <IFrameResource>
+                        <![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/d16g/kpw/vca300x250_1.html?cid=7246765370601&acp=tr&img=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fd16g%2Fkpw%2FPIV_YouTube_Logo_300x250.jpg&clk=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fprimesignup&ac_lnk=https%3A%2F%2Fwww.amazon.com%2Fadprefs]]>
+                    </IFrameResource>
+                </Companion>
+              <Companion width="300" height="60">
+                  <TrackingEvents>
+                      <Tracking event="creativeView"><![CDATA[https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fi%3Deabb612a-4656-432e-861c-a04a42ed0912%26e%3DvideoCreativeView%26a%3D7976000988113%26c%3D7246765370601%26s%3Dpda&ex-fch=416719&cb=1,815,721,051,302,281,958]]></Tracking>
+                  </TrackingEvents>
+                  <IFrameResource>
+                      <![CDATA[https://images-na.ssl-images-amazon.com/images/G/01/d16g/kpw/vca300x60_1.html?cid=7246765370601&acp=tr&img=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fd16g%2Fkpw%2FPIV_YouTube_Logo_300x60.jpg&clk=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fprimesignup&ac_lnk=https%3A%2F%2Fwww.amazon.com%2Fadprefs]]>
+                  </IFrameResource>
+              </Companion>
+            </CompanionAds>
+          </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
+
+   
+
+    
+
+  
+<!-- creativeModDate = 1520301250000 -->
